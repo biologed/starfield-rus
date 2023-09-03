@@ -1,17 +1,13 @@
 fontlib "fonts_ru"
-fontlib "fonts_ru2"
-fontlib "fonts_ru3"
-fontlib "fonts_CRF_console"
-fontlib "FontLibrary"
-map "$HandwrittenFont" = "DFWeiBei-GB Otf W7 Regular" Normal
-map "$MAIN_Font" = "NBRUSSMEDIUM" Normal
-map "$MAIN_Font_Bold" = "NBRUSSMEDIUM" Normal
+map "$HandwrittenFont" = "Handwritten_Institute" Normal
+map "$MAIN_Font" = "NBRUSS" Normal
+map "$MAIN_Font_Bold" = "NBRUSS" Normal
 map "$Controller_Buttons" = "Genesis Controller  Buttons" Normal
 map "$Controller_Buttons_inverted" = "Genesis Controller  Buttons inv" Normal
 map "$Controller_Buttons_thin" = "Genesis Controller  Buttons thin" Normal
 map "$ConsoleFont" = "Arial" Normal
 map "$DebugTextFont" = "Consolas" Normal
-map "$NB_Grotesk_Semibold" = "NBRUSSMEDIUM" Normal
-map "$NB_Grotesk_Bold" = "NBRUSSBOLD" Normal
+map "$NB_Grotesk_Semibold" = "NBRUSS" Normal
+map "$NB_Grotesk_Bold" = "NBRUSS" Normal
 validNameChars "`1234567890-=~!@#%^&*():_+QWERTYUIOP[]ASDFGHJKL;'ZXCVBNM,./qwertyuiop{}\\asdfghjkl;'zxcvbnm?|¡¢£¤¥¦§¨©ª«®¯°²³´¶·¸¹º»¼½¾¿ÄÀÁÂÃÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþ ÿ ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯёабвгдежзийклмнопрстуфхцчшщъыьэюя"
 validBookChars "`1234567890-=~!@#$%^&*():_+QWERTYUIOP[]ASDFGHJKL;'ZXCVBNM,./qwertyuiop{}\\asdfghjkl;'zxcvbnm<>?|¡¢£¤¥¦§¨©ª«®¯°²³´¶·¸¹º»¼½¾¿ÄÀÁÂÃÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþ ÿ ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯёабвгдежзийклмнопрстуфхцчшщъыьэюя"
