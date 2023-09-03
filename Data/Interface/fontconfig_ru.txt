@@ -1,5 +1,9 @@
 fontlib "fonts_ru"
-map "$HandwrittenFont" = "Handwritten_Institute" Normal
+fontlib "fonts_ru2"
+fontlib "fonts_ru3"
+fontlib "fonts_CRF_console"
+fontlib "FontLibrary"
+map "$HandwrittenFont" = "DFWeiBei-GB Otf W7 Regular" Normal
 map "$MAIN_Font" = "NBRUSSMEDIUM" Normal
 map "$MAIN_Font_Bold" = "NBRUSSMEDIUM" Normal
 map "$Controller_Buttons" = "Genesis Controller  Buttons" Normal
