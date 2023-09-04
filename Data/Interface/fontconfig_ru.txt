@@ -1,13 +1,13 @@
 fontlib "fonts_ru"
 map "$HandwrittenFont" = "Handwritten_Institute" Normal
-map "$MAIN_Font" = "NBRUSS" Normal
-map "$MAIN_Font_Bold" = "NBRUSS" Normal
+map "$MAIN_Font" = "RF_35_M" Normal
+map "$MAIN_Font_Bold" = "RF_75_M" Normal
 map "$Controller_Buttons" = "Genesis Controller  Buttons" Normal
 map "$Controller_Buttons_inverted" = "Genesis Controller  Buttons inv" Normal
 map "$Controller_Buttons_thin" = "Genesis Controller  Buttons thin" Normal
-map "$ConsoleFont" = "Arial" Normal
-map "$DebugTextFont" = "Consolas" Normal
-map "$NB_Grotesk_Semibold" = "NBRUSS" Normal
-map "$NB_Grotesk_Bold" = "NBRUSS" Normal
-validNameChars "`1234567890-=~!@#%^&*():_+QWERTYUIOP[]ASDFGHJKL;'ZXCVBNM,./qwertyuiop{}\\asdfghjkl;'zxcvbnm?|¡¢£¤¥¦§¨©ª«®¯°²³´¶·¸¹º»¼½¾¿ÄÀÁÂÃÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþ ÿ ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯёабвгдежзийклмнопрстуфхцчшщъыьэюя"
-validBookChars "`1234567890-=~!@#$%^&*():_+QWERTYUIOP[]ASDFGHJKL;'ZXCVBNM,./qwertyuiop{}\\asdfghjkl;'zxcvbnm<>?|¡¢£¤¥¦§¨©ª«®¯°²³´¶·¸¹º»¼½¾¿ÄÀÁÂÃÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþ ÿ ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯёабвгдежзийклмнопрстуфхцчшщъыьэюя"
+map "$ConsoleFont" = "Starfield_Grotesk_R" Normal
+map "$DebugTextFont" = "Starfield_Grotesk_R" Normal
+map "$NB_Grotesk_Semibold" = "RF_35_M" Normal
+map "$NB_Grotesk_Bold" = "RF_75_SB" Normal
+validNameChars "`1234567890-=~!@#%^&*():_+QWERTYUIOP[]ASDFGHJKL;'ZXCVBNM,./qwertyuiop{}\\asdfghjkl;'zxcvbnm?|¡¢£¤¥¦§¨©ª«®¯°²³´¶·¸¹º»¼½¾¿ÄÀÁÂÃÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþ ÿ ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯёабвгдежзийклмнопрстуфхцчшщъыьэюя←↑→↓↔↕"
+validBookChars "`1234567890-=~!@#$%^&*():_+QWERTYUIOP[]ASDFGHJKL;'ZXCVBNM,./qwertyuiop{}\\asdfghjkl;'zxcvbnm<>?|¡¢£¤¥¦§¨©ª«®¯°²³´¶·¸¹º»¼½¾¿ÄÀÁÂÃÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþ ÿ ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯёабвгдежзийклмнопрстуфхцчшщъыьэюя←↑→↓↔↕"
