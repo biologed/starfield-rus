@@ -1,0 +1,48 @@
+$ColumnLabelCount	КОЛ-ВО
+$ColumnLabelMassPerStack	ОБЩ.ВЕС
+$ColumnLabelValuePerMass	ВЕС/ЦЕНА
+$ColumnLabelValuePerStack	ОБЩАЯ ЦЕНА
+$ColumnLabelDPS	УРН/С
+$ColumnLabelAmmoRounds	БОЕЗАПАС
+$ColumnLabelRarity	РЕДКОСТЬ
+$ColumnLabelTreatment	ЛЕЧ.
+$ColumnLabelWeaponAccuracy	ТОЧН
+$ColumnLabelWeaponROF	СКОР.СТР.
+$ColumnLabelWeaponRange	ДАЛЬН.
+$ColumnLabelWeaponType	ТИП
+$ColumnLabelWeaponMagazine	МАГАЗИН
+$ColumnLabelWeaponMods	МОДИФ.
+$ColumnLabelWeaponManufacturer	ПРОИЗВОДИТЕЛЬ
+$ColumnLabelWeaponBasename	ИМЯ
+$ColumnLabelInventory_player	ИНВЕНТАРЬ
+$ColumnLabelInventory_ship	ТРЮМ
+$ColumnLabelInventory_vendor	ПРОДОВЕЦ
+$ColumnLabelInventory_container	КОЛ
+$ColumnLabelInventory_total	OWNED
+$ColumnLabelInventory_target	ЦЕЛЬ
+$TransferCatItems	Переместить всё
+$TransferCatItemsToContainer	Переместить всё в контейнер
+$TransferCatItemsToInventory	Переместить всё в инвентарь
+$TransferCatItemsToShip	Переместить всё в трюм
+$SellCatItems	Продать всё
+$BuyCatItems	Купить всё
+$Scarcity0	Обычный
+$Scarcity1	Необычный
+$Scarcity2	Редкий
+$Scarcity3	Экзотический
+$Scarcity4	Уникальный
+$Scarcity5	Специальный
+$Scarcity6	Everywhere
+$ButtonHideDataColumns	Hide data columns
+$ButtonShowDataColumns	Show data columns
+$ButtonSwitchCategory	Switch category
+$ButtonSwitchSubCategory	Switch sub category
+$ButtonSortBack	Sort (backwards)
+$ButtonSortAscDesc	Toggle sort asc/desc
+$ButtonAddTempCols	Add temp. columns
+$TransferMode1PieceActive	Transfer 1 item
+$TransferModeStackActive	Transfer stack
+$SellMode1PieceActive	Sell 1 item
+$SellModeStackActive	Sell stack
+$BuyMode1PieceActive	Buy 1 item
+$BuyModeStackActive	Buy stack
